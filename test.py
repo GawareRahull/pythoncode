@@ -1,2 +1,2 @@
 print("Wassup Buddy!! v10")
-print("This is Email notification Demo3")
+print"This is Email notification Demo3")
