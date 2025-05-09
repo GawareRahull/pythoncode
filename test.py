@@ -1,2 +1,2 @@
 print("Wassup Buddy!! v10")
-print("This is Webhook Demo1")
+print("This is Email notification Demo1")
